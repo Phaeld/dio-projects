@@ -1,6 +1,7 @@
 <center> <h1>Olá, bem vindo ao repositório dedicado as atividades da DIO</h1> 
 
-![eu](https://github.com/user-attachments/assets/3d384c1c-7d28-4e92-b7eb-da0790f626e9)
+![eu](https://www.instagram.com/p/C2fqlB9xfBt/?img_index=1)
+
 
 Eu sou Raphael da Silva, aluno da DIO!
 Tenho 19 anos e estou estudo a parte de programação e tecnologia.

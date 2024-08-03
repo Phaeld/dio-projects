@@ -12,7 +12,7 @@ Para calcular as principais métricas de avaliação de modelos de classificaç�
 <br>
 1. Acurácia _(Accuracy)_
 
-> Acurácia = (VP + VN) / (VP + VN + FP + FN)
+> <br>Acurácia = (VP + VN) / (VP + VN + FP + FN)<br><br>
 
 <br><br>
 2. Sensibilidade _(Recall)_
@@ -35,7 +35,7 @@ Para calcular as principais métricas de avaliação de modelos de classificaç�
 > <br>F-Score = 2 * (Precisão * Sensibilidade) / (Precisão * Sensibilidade)<br><br>
 
 <br>
-Agora, vamos implementar estas fórmulas em Python para calcular as métricas com base na matriz de confusão fornecida nessa pasta **calculo.py.**
+Agora, vamos implementar estas fórmulas em Python para calcular as métricas com base na matriz de confusão fornecida nessa pasta ** calculo.py. **
 
 <br>
 <hr>

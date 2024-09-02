@@ -1,0 +1,3 @@
+Segue o link para ter acesso ao arquivo na plataforma COLAB:
+
+LINK > https://colab.research.google.com/drive/19AqrxuwUrvDOaj3pies7QpuJLlLJDuXH?usp=sharing

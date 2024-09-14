@@ -1,8 +1,7 @@
 <h1 align="center">👋 Bem-vindo ao Repositório de Projetos DIO</h1>
 
-<p align="center">
-  <img src="https://www.instagram.com/p/C2fqlB9xfBt/?img_index=1" alt="Raphael da Silva">
-</p>
+![Raphael da Silva](https://www.instagram.com/p/C2fqlB9xfBt/?img_index=1)
+
 
 <p align="center">
   Eu sou Raphael da Silva, aluno da DIO! <br>

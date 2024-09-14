@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bem-vindo ao Repositório de Projetos DIO</h1>
 
-![Raphael da Silva](https://www.instagram.com/p/C2fqlB9xfBt/?img_index=1)
+![Raphael da Silva](https://raw.githubusercontent.com/Phaeld/dio-projetcs/main/eu.png)
 
 
 <p align="center">

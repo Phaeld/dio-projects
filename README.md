@@ -34,7 +34,7 @@ Aqui estão os cursos nos quais trabalhei e criei os desafios:
 | Sigla | Significado |
 | ----- | ----------- |
 |   ML  | Machine Learning |
-|  IOT  | Internet Of Things |
+|  IoT  | Internet Of Things |
 |  GGH  | Git e GitHub |
 
 ---
